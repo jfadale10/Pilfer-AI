@@ -1,0 +1,18 @@
+{
+  "name": "PILFER AI",
+  "short_name": "PILFER",
+  "description": "A general-purpose AI chat assistant.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020a10",
+  "theme_color": "#020a10",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
