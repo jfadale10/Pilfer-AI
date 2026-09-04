@@ -86,3 +86,4 @@ app.get('/api/health', (req, res) => res.json({ ok: true }));
 app.listen(PORT, () => {
   console.log(`Signal server running on http://localhost:${PORT}`);
 });
+export default app;
